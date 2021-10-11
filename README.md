@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+![profile](https://user-images.githubusercontent.com/61131314/136562272-245dcf5e-8487-46cb-b950-4dc296e65e04.gif)
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
